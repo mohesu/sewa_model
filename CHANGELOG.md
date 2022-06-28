@@ -1,3 +1,8 @@
+## 0.0.3
+
+* Dart formatter applied.
+* Readme updated.
+
 ## 0.0.2
 
 * example json files removed
