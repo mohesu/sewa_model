@@ -1,0 +1,25 @@
+name: sewa_model
+description: A new Flutter project.
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: ">=2.17.5 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  json_annotation:
+  freezed_annotation:
+  collection:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  build_runner:
+  json_serializable:
+  freezed:
+
+flutter:

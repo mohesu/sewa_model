@@ -1,0 +1,18 @@
+{
+  "name": "models",
+  "phone": 0,
+  "mobile": 0,
+  "email": "",
+  "address": "",
+  "rating": 0.0,
+  "owner": "",
+  "specialist": "",
+  "timing": "",
+  "createdAt": 1646817542569,
+  "updatedAt": 1646817542569,
+  "status": "Hold",
+  "hospitalId": "5e49993f-9fde-4d33-bf1c-596ec9cb5904",
+  "latitude": 0,
+  "longitude": 0,
+  "website": ""
+}

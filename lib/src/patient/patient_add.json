@@ -1,0 +1,15 @@
+{
+  "name": "",
+  "phone": 0,
+  "address": "",
+  "email": "",
+  "dateOfBirth": "",
+  "gender": "",
+  "height": "",
+  "weight": "",
+  "patientId": "",
+  "createdAt": 1646817542569,
+  "updatedAt": 1646817542569,
+  "status": "Hold",
+  "userType": ""
+}
