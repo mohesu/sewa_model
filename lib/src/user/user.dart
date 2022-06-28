@@ -5,7 +5,7 @@ import 'prefs.dart';
 part 'user.g.dart';
 
 @JsonSerializable()
-class User {
+class SewaUser {
   @JsonKey(name: '\$id')
   String id;
   String name;
@@ -16,7 +16,7 @@ class User {
   bool emailVerification;
   Prefs? prefs;
 
-  User({
+  SewaUser({
     this.id = '',
     this.name = '',
     this.registration = 0,
@@ -27,7 +27,7 @@ class User {
     this.prefs,
   });
 
-  factory User.fromJson(Map<String, dynamic> json) => _$UserFromJson(json);
+  factory SewaUser.fromJson(Map<String, dynamic> json) => _$UserFromJson(json);
 
   Map<String, dynamic> toJson() => _$UserToJson(this);
 }
