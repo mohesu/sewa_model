@@ -4,7 +4,6 @@ import 'package:json_annotation/json_annotation.dart';
 import '../../enums/appointment_enum.dart';
 import '../../enums/gender.dart';
 
-
 part 'request.g.dart';
 
 @JsonSerializable()

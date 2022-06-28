@@ -22,6 +22,13 @@ dependencies:
   sewa_model: latest
 ```
 
+## Example
+```dart
+import 'package:sewa_model/sewa_model.dart';
+AppointmentRequest request = AppointmentRequest();
+AppointmentResponse response = AppointmentResponse();
+```
+
 ## Additional information
 
 This package depends on:
