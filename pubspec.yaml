@@ -1,7 +1,7 @@
 name: sewa_model
-description: A new Flutter project.
+description: Models for SEWA project, including user, product, order, etc.
 version: 0.0.1
-homepage:
+homepage: https://github.com/rvndsngwn/sewa_model.git
 
 environment:
   sdk: ">=2.17.5 <3.0.0"
@@ -10,9 +10,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  json_annotation:
-  freezed_annotation:
-  collection:
+  json_annotation: ^4.5.0
+  freezed_annotation: ^2.0.3
+  collection: ^1.16.0
 
 dev_dependencies:
   flutter_test:

@@ -11,29 +11,28 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
-
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
-
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+A Flutter package for sewa project. Its purpose is to provide all models and enums for sewa project.
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
-
-```dart
-const like = 'sample';
+```pubspec.yaml
+dependencies: 
+  sewa_model: latest
 ```
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
+This package depends on:
+```pubspec.yaml
+dependencies: 
+  json_annotation: latest
+  freezed_annotation: latest
+  collection: latest
+
+dev_dependencies:
+  build_runner: latest
+  json_serializable: latest
+  freezed: latest
+```
