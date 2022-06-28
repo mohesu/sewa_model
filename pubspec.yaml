@@ -1,6 +1,6 @@
 name: sewa_model
 description: Models for SEWA project, including user, product, order, etc.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/rvndsngwn/sewa_model.git
 
 environment:
