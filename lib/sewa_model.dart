@@ -18,3 +18,7 @@ export 'src/enums/account_enum.dart';
 export 'src/enums/appointment_enum.dart';
 export 'src/enums/gender.dart';
 export 'src/enums/doctor_enum.dart';
+export 'src/specialist/price/request.dart';
+export 'src/specialist/price/response.dart';
+export 'src/specialist/request/request.dart';
+export 'src/specialist/response/response.dart';

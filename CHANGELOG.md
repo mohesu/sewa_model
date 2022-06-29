@@ -1,3 +1,8 @@
+
+## 0.0.4
+
+* SpecialistRequest added.
+
 ## 0.0.3
 
 * Dart formatter applied.
