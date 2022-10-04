@@ -1,3 +1,7 @@
+## 0.0.5
+- CRUD operations for `appointments` added
+- Dependency updates
+- Appwrite added
 
 ## 0.0.4
 

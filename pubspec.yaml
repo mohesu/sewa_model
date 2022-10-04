@@ -1,6 +1,6 @@
 name: sewa_model
 description: Models for SEWA project, including user, product, order, etc.
-version: 0.0.4
+version: 0.0.5
 homepage: https://github.com/rvndsngwn/sewa_model.git
 
 environment:
@@ -10,16 +10,18 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  json_annotation: ^4.5.0
-  freezed_annotation: ^2.0.3
+  json_annotation: ^4.7.0
+  freezed_annotation: ^2.1.0
   collection: ^1.16.0
+  appwrite: ^7.0.0
+  uuid: ^3.0.6
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
-  build_runner:
-  json_serializable:
-  freezed:
+  flutter_lints: ^2.0.1
+  build_runner: ^2.2.1
+  json_serializable: ^6.4.1
+  freezed: ^2.1.1
 
 flutter:
