@@ -13,6 +13,7 @@ export 'src/doctor/request/request.dart';
 export 'src/doctor/response/response.dart';
 export 'src/appointment/request/request.dart';
 export 'src/appointment/response/response.dart';
+export 'src/appointment/card.dart';
 export 'src/enums/user_type.dart';
 export 'src/enums/account_enum.dart';
 export 'src/enums/appointment_enum.dart';
