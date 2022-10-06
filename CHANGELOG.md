@@ -1,3 +1,6 @@
+## 0.0.6
+- cards added
+
 ## 0.0.5
 - CRUD operations for `appointments` added
 - Dependency updates
